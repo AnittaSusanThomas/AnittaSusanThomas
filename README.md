@@ -27,7 +27,7 @@ I focus on designing clean, modular automation frameworks that ensure high-quali
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anitta-susan-thomas-4431341a3)
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 🧑‍💻 [GitHub](https://github.com/AnittaSusanThomas)
 - ✉️ Email: anitta.work123@gmail.com
 
 ---
