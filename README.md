@@ -2,7 +2,7 @@
 
 💻 **Software Development Engineer in Test (SDET)** | ⚙️ **Automation Test Engineer** | 🎓 **ISTQB Certified**
 
-I’m a QA Engineer passionate about **Automation Testing using Selenium WebDriver and SpecFlow (BDD)** 
+I’m a QA Engineer passionate about **Automation Testing using Selenium WebDriver and SpecFlow (BDD).** 
 I focus on designing clean, modular automation frameworks that ensure high-quality releases through CI/CD integration and strong QA best practices.
 
 ---
