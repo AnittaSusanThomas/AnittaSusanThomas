@@ -26,9 +26,9 @@ I focus on designing clean, modular automation frameworks that ensure high-quali
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anitta-susan-thomas-4431341a3)
 - 🧑‍💻 [GitHub](https://github.com/yourusername)
-- ✉️ Email: youremail@example.com
+- ✉️ Email: anitta.work123@gmail.com
 
 ---
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
@@ -36,5 +36,4 @@ I focus on designing clean, modular automation frameworks that ensure high-quali
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![ISTQB](https://img.shields.io/badge/-ISTQB%20Certified-FF0000?logo=awesomelists&logoColor=white)
